@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F7BD2</color>
+    <color name="colorPrimaryDark">#FF1A641A</color>
+    <color name="colorAccent">#2BAA49</color>
+    <color name="colorAccentText">#2BAA49</color>
+    <color name="dialogOverlayColor">#0000</color>
+    <color name="fail">#FE4B4B</color>
+    <color name="success">#30D8A5</color>
+    <color name="colorBackground">#F4F8FD</color>
+    <color name="disabledGrayDark">#B9B9B9</color>
+    <color name="separatorGray">#E4EAF6</color>
+    <color name="textDefaultLight">#56657D</color>
+    <color name="textHint">#9b9b9b</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textDefault">#061C3F</color>
+
+    <color name="dialogSubtext">#8793A6</color>
+</resources>

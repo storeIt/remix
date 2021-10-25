@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_s">8dp</dimen>
+    <dimen name="spacing_m">16dp</dimen>
+    <dimen name="spacing_l">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_standard">10dp</dimen>
+
+    <!--Text Size-->   <!--Sizes met in the app 10, 13, 14, 16, 18, 22, 26, 32  -->
+    <dimen name="text_size_xxxxs" tools:keep="@dimen/text_size_xxxxs">6sp</dimen>
+    <dimen name="text_size_xxxs" tools:keep="@dimen/text_size_xxxs">8sp</dimen>
+    <dimen name="text_size_xxs" tools:keep="@dimen/text_size_xxs">10sp</dimen>
+    <dimen name="text_size_xs" tools:keep="@dimen/text_size_xs">13sp</dimen>
+    <dimen name="text_size_s" tools:keep="@dimen/text_size_s">14sp</dimen>
+    <dimen name="text_size_m" tools:keep="@dimen/text_size_m">16sp</dimen>
+    <dimen name="text_size_l" tools:keep="@dimen/text_size_l">18sp</dimen>
+    <dimen name="text_size_xl" tools:keep="@dimen/text_size_xl">22sp</dimen>
+    <dimen name="text_size_xxl" tools:keep="@dimen/text_size_xxl">26sp</dimen>
+    <dimen name="text_size_xxxl" tools:keep="@dimen/text_size_xxxl">32sp</dimen>
+    <dimen name="text_size_xxxxl">46sp</dimen>
+
+    <dimen name="button_bottom_width">264dp</dimen>
+    <dimen name="button_bottom_height">48dp</dimen>
+    <dimen name="button_bottom_corner_radius">28dp</dimen>
+
+    <!-- Elevation spacing Start -->
+    <dimen name="elevation_small" tools:keep="@dimen/elevation_small">4dp</dimen>
+    <dimen name="elevation_medium">6dp</dimen>
+
+    <dimen name="spacing_vertical_standard">16dp</dimen>
+    <dimen name="spacing_vertical_huge">26dp</dimen>
+
+    <dimen name="spacing_horizontal_medium">20dp</dimen>
+
+    <dimen name="rounded_button_height">48dp</dimen>
+</resources>

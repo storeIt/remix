@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- color: #FF1E7224 or #49C24E -->
+    <attr name="bottomBtnGradCenterColLightTh_Or_bottomBtnGradCenterColorDarkTh" format="reference|color" />
+    <!-- color: #FF31C65B or #47D54D -->
+    <attr name="iconsGreenOpacity_Or_gradientGreenEnd" format="reference|color" />
+    <!-- color:FF1A641A # or #4CAF50 -->
+    <attr name="colorPrimaryDark_Or_greenDarkTheme" format="reference|color" />
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">remix</string>
+
+    <string name="news">News</string>
+    <string name="btn_add">Add</string>
+    <string name="details">Details</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete_permanently">Do you want to permanently delete all items?</string>
+    <string name="news_deleted">News deleted</string>
+    <string name="description">Description</string>
+    <string name="hint_enter_title">Title</string>
+    <string name="undo">Undo</string>
+    <string name="btn_save">Save</string>
+</resources>
